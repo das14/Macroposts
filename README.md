@@ -1,24 +1,9 @@
-# README
+# MACROPOSTS
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Why have the constraint of only a few characters? Let's reverse that.
 
-Things you may want to cover:
+Let's create a site where you have to write a certain number of characters to post. Urges people to write more, share more. Let's make social sites what they are supposed to do, share things with your social group.
 
-* Ruby version
+Just like this, let's start writing!
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+If it breaks or it doesn't work as it is supposed to, shoot me an email and I would love to note it down
